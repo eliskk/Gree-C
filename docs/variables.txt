@@ -1,0 +1,19 @@
+Number
+> int
+> flo
+
+String
+> cha
+> str
+
+Collections
+> arr
+> tup
+> dic
+
+Booleans
+> boo
+ 
+Methods
+> cla
+> fun
